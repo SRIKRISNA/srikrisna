@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Srikrishna</h1>
 <h3 align="center">A passionate "Full Stack Developer (MERN)" from India</h3>
-
+<img src="https://media-exp1.licdn.com/dms/image/D5616AQHMuzZKe13QjQ/profile-displaybackgroundimage-shrink_350_1400/0/1666426830087?e=1675296000&v=beta&t=9o8V2c8fgcbaukjLu7jbzvEDDDVLEiQYzaRp6DHlasI" alt="banner">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikrisna&label=Profile%20views&color=0e75b6&style=flat" alt="srikrisna" /> </p>
 
+- 🔭 I’m currently working on [My Portfolio](https://www.allwebsites.in/)
+
 - 🌱 I’m currently learning **ReactJs, NodeJs, Redux, AWS**
+
+- 👯 I’m looking to collaborate on [SHARE POST (Insta Clone)](https://instacloneclient.herokuapp.com/)
 
 - 👨‍💻 All of my projects are available at [https://www.allwebsites.in/](https://www.allwebsites.in/)
 
