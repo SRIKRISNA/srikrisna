@@ -3,19 +3,19 @@
 <img src="https://media-exp1.licdn.com/dms/image/D5616AQHMuzZKe13QjQ/profile-displaybackgroundimage-shrink_350_1400/0/1666426830087?e=1675296000&v=beta&t=9o8V2c8fgcbaukjLu7jbzvEDDDVLEiQYzaRp6DHlasI" alt="banner">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikrisna&label=Profile%20views&color=0e75b6&style=flat" alt="srikrisna" /> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://www.allwebsites.in/)
-
+- 🔭 I’m currently working on [My Portfolio](https://sk-portfolio.onrender.com)
+- My Resume Link https://drive.google.com/file/d/1O9jY811VrPoMMl-FlKeuPVyPAnGOlyDj/view?usp=sharing
 - 🌱 I’m currently learning **ReactJs, NodeJs, Redux, AWS**
 
-- 👯 I’m looking to collaborate on [SHARE POST (Insta Clone)](https://instacloneclient.herokuapp.com/)
+- 👯 I’m looking to collaborate on [SHARE POST (Insta Clone)](https://iinstafront.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://www.allwebsites.in/](https://www.allwebsites.in/)
+- 👨‍💻 All of my projects are available at [https://sk-portfolio.onrender.com/](https://sk-portfolio.onrender.com)
 
 - 💬 Ask me about **React, Node, Mongo, Express**
 
 - 📫 How to reach me **9901437129**
 
-- 📄 Know about my experiences [https://www.allwebsites.in/](https://www.allwebsites.in/)
+- 📄 Know about my experiences [https://sk-portfolio.onrender.com/](https://sk-portfolio.onrender.com)
 
 - ⚡ Fun fact **I think I'm good in sports & games as well**
 
